@@ -13,7 +13,6 @@ export const routes = [
   postCourseRoute,
   deleteCourseRoute,
   putCourseRoute,
-  //TODO: 3. Uncomment the following lines to enable add login and signup routes
   loginRoute,
   signUpRoute,
   getUsersRoute,
